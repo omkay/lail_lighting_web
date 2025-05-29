@@ -1,0 +1,79 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+model Project {
+  id          String   @id @default(cuid())
+  title       String
+  category    String
+  brief       String
+  paragraph   String
+  location    String
+  clientReview String?
+  status      String   @default("draft") // draft, published, archived
+  client      String?
+  startDate   DateTime?
+  endDate     DateTime?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  images      String?  // JSON string of image URLs
+  tags        String?  // JSON string of tags
+  specifications ProjectSpecification[]
+  gallery     String?  // JSON array of image filenames/paths
+
+  @@map("projects")
+}
+
+model ProjectSpecification {
+  id          String   @id @default(cuid())
+  title       String
+  description String
+  project     Project  @relation(fields: [projectId], references: [id], onDelete: Cascade)
+  projectId   String
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@index([projectId])
+  @@map("project_specifications")
+}
+
+model Product {
+  id          String   @id @default(cuid())
+  name        String
+  description String?
+  category    String
+  price       Float
+  stock       Int      @default(0)
+  images      String?  // JSON string of image URLs
+  features    String?  // JSON string of features
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  tags        String?  // JSON string of tags
+
+  @@map("products")
+}
+
+model Article {
+  id        String   @id @default(cuid())
+  title     String
+  content   String
+  author    String
+  category  String
+  tldr_desc String   // TLDR description/summary
+  status    String   @default("draft") // draft, published, archived
+  publishedAt DateTime?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  tags      String?  // JSON string of tags
+  image     String?  // JSON string of image metadata
+
+  @@map("articles")
+} 
