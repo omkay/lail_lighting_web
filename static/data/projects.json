@@ -1,0 +1,224 @@
+{
+  "al-bayt-residence": {
+    "title": "Al Bayt Residence",
+    "category": "Residential | Exterior Lighting",
+    "mainImage": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/77613753-2e3c-4c3e-8fca-85fdcd49a7b3.JPG-ynfKzvJTNSRDZlWEtIo1rOnYBONPqV.jpeg",
+    "description": "This majestic residence exemplifies how architectural lighting can transform a building into a nocturnal masterpiece. The façade illumination employs a meticulous layering technique, where soft washes of light cascade down the columns, creating a rhythmic interplay between light and shadow.",
+    "details": [
+      "The design emphasizes the structure's grandeur through strategic uplighting that accentuates the ornate capitals and decorative elements. The warm color temperature (2700K) was specifically chosen to complement the cream-colored exterior, enhancing the building's stately presence while maintaining a welcoming ambiance.",
+      "Notice how the lighting creates depth by highlighting the recessed areas differently from the protruding elements, resulting in a three-dimensional canvas that reveals architectural details invisible during daylight hours.",
+      "The lighting scheme respects the architectural hierarchy, with more prominent illumination for the main entrance and central features, gradually becoming more subtle towards the peripheral elements."
+    ],
+    "specs": [
+      { "label": "Luminaire Type", "value": "Linear LED grazing fixtures, LED uplights, recessed spotlights" },
+      { "label": "Color Temperature", "value": "2700K (warm white)" },
+      { "label": "Control System", "value": "Programmable DMX with astronomical time clock" },
+      {
+        "label": "Energy Efficiency",
+        "value": "High-efficiency LED fixtures with precision optics to minimize light spill"
+      }
+    ],
+    "gallery": [
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/77613753-2e3c-4c3e-8fca-85fdcd49a7b3.JPG-ynfKzvJTNSRDZlWEtIo1rOnYBONPqV.jpeg",
+      "/placeholder-md5o3.png",
+      "/placeholder-yjrb0.png"
+    ],
+    "testimonial": {
+      "quote": "The lighting design transformed our residence into a work of art at night. The attention to architectural detail and the way the light enhances our home's features is remarkable.",
+      "author": "Client, Al Bayt Residence"
+    },
+    "nextProject": "al-diwan-palace"
+  },
+  "al-diwan-palace": {
+    "title": "Al Diwan Palace",
+    "category": "Cultural | Exterior Illumination",
+    "mainImage": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/b92ff400-05d7-415c-a03b-c9f4aca74fa5.JPG-FZL4QzyraBXNT8GchgFyZHDAZeY381.jpeg",
+    "description": "The Al Diwan Palace project showcases a masterful approach to cultural landmark illumination. The lighting scheme employs a harmonious blend of linear grazing and accent lighting to articulate the building's magnificent façade, creating a visual symphony that celebrates its architectural heritage.",
+    "details": [
+      "Each architectural element receives individualized attention—the ornate cornices glow with a delicate amber hue, while the rhythmic arches are defined by precisely positioned luminaires that enhance their geometric perfection. The dome's illumination creates a beacon-like effect, drawing the eye upward and establishing a hierarchical visual journey across the structure.",
+      "The lighting design respects the building's historical significance while introducing contemporary techniques that bring it into dialogue with its modern surroundings. The result is a nocturnal identity that transforms the palace into a luminous jewel against the night sky, visible from considerable distances yet never overwhelming in its brilliance.",
+      "Special consideration was given to the cultural significance of the building, with lighting that enhances its ceremonial character while respecting traditional architectural principles."
+    ],
+    "specs": [
+      { "label": "Luminaire Type", "value": "Custom LED projectors, linear grazing fixtures, in-ground uplights" },
+      { "label": "Color Temperature", "value": "2700K-3000K (warm white with amber accents)" },
+      { "label": "Control System", "value": "Centralized DMX system with scene-setting capabilities" },
+      {
+        "label": "Energy Efficiency",
+        "value": "High-efficiency LED fixtures with precision optics to minimize light spill"
+      }
+    ],
+    "gallery": [
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/b92ff400-05d7-415c-a03b-c9f4aca74fa5.JPG-FZL4QzyraBXNT8GchgFyZHDAZeY381.jpeg",
+      "/placeholder-p7ti5.png",
+      "/placeholder-wwvdx.png"
+    ],
+    "testimonial": {
+      "quote": "The lighting design has brought new life to this historic structure, highlighting its cultural significance while creating a stunning visual landmark for our city.",
+      "author": "Cultural Affairs Director"
+    },
+    "nextProject": "serenity-corridor"
+  },
+  "serenity-corridor": {
+    "title": "Serenity Corridor",
+    "category": "Residential | Interior Lighting",
+    "mainImage": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/3d23b78d-4a2a-4151-955e-014c8f9bbc44%281%29.JPG-Oi64Ws0tUhP77Rlmvd4Tw77PFpo8IL.jpeg",
+    "description": "This minimalist corridor exemplifies how thoughtful lighting can transform a transitional space into a sanctuary of elegance. The design employs precision recessed downlights that create pools of illumination on the floor, establishing a rhythm that guides movement through the space without overwhelming it with unnecessary brightness.",
+    "details": [
+      "The cabinetry's clean lines are accentuated by the careful placement of light and shadow, creating visual interest while maintaining the space's serene character. The lighting scheme respects the materiality of the wood, enhancing its natural warmth and texture rather than flattening it with excessive illumination.",
+      "Note how the lighting creates a sense of depth and dimension in what could otherwise be a simple passageway. The interplay between the illuminated and shadowed areas establishes a sophisticated visual hierarchy that elevates the entire experience of moving through this space.",
+      "The lighting design incorporates both functional and aesthetic considerations, ensuring adequate illumination for safe passage while creating a mood that complements the architectural intent."
+    ],
+    "specs": [
+      { "label": "Luminaire Type", "value": "Recessed adjustable downlights, linear LED strips, wall washers" },
+      { "label": "Color Temperature", "value": "2700K (warm white)" },
+      { "label": "Control System", "value": "Wireless smart lighting system with motion sensors" },
+      { "label": "Energy Efficiency", "value": "High-efficiency LED fixtures with dimming capabilities" }
+    ],
+    "gallery": [
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/3d23b78d-4a2a-4151-955e-014c8f9bbc44%281%29.JPG-Oi64Ws0tUhP77Rlmvd4Tw77PFpo8IL.jpeg",
+      "/placeholder-h7r7j.png",
+      "/placeholder.svg?height=600&width=800&query=interior hallway elegant lighting"
+    ],
+    "testimonial": {
+      "quote": "What was once just a hallway has been transformed into one of our favorite spaces. The lighting creates a sense of calm and sophistication that perfectly matches our home's aesthetic.",
+      "author": "Homeowner"
+    },
+    "nextProject": "luminous-path"
+  },
+  "luminous-path": {
+    "title": "Luminous Path",
+    "category": "Commercial | Exterior Pathway",
+    "mainImage": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/1219-Cover.jpg-DyerW66PSAfQJERuskvXFK819CjboY.jpeg",
+    "description": "The Luminous Path project demonstrates how architectural lighting can transform exterior circulation spaces into immersive experiences. The sleek bollard luminaires create a choreographed procession of light that guides visitors while casting dramatic shadows that dance across the pathway.",
+    "details": [
+      "The lighting scheme establishes a dialogue between the built environment and the landscape elements. Notice how the illumination highlights the textural qualities of the greenery, creating layers of visual interest that unfold as one moves through the space. The vertical surfaces receive gentle washes of light that reveal their materiality without overwhelming the composition.",
+      "The careful balance between functional illumination and atmospheric effect creates a space that feels simultaneously secure and enchanting. The lighting transforms what could be a mere transitional area into a destination in its own right—a nocturnal garden where architecture and nature converse through the medium of light.",
+      "Special attention was paid to creating a sense of rhythm and progression through the space, with lighting that subtly guides movement while creating moments of visual interest along the journey."
+    ],
+    "specs": [
+      { "label": "Luminaire Type", "value": "Custom bollards, in-ground uplights, LED strip lighting" },
+      { "label": "Color Temperature", "value": "3000K (warm white)" },
+      { "label": "Control System", "value": "Programmable system with motion sensors and time-based scenes" },
+      { "label": "Energy Efficiency", "value": "Solar-powered fixtures with battery backup, high-efficiency LEDs" }
+    ],
+    "gallery": [
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/1219-Cover.jpg-DyerW66PSAfQJERuskvXFK819CjboY.jpeg",
+      "/placeholder.svg?height=600&width=800&query=landscape pathway lighting night",
+      "/placeholder.svg?height=600&width=800&query=garden walkway illumination"
+    ],
+    "testimonial": {
+      "quote": "The pathway lighting has completely transformed our campus experience after dark. What was once just a functional walkway is now a beautiful feature that enhances our entire property.",
+      "author": "Facility Manager"
+    },
+    "nextProject": "royal-mansion"
+  },
+  "royal-mansion": {
+    "title": "Royal Mansion",
+    "category": "Residential | Exterior Façade",
+    "mainImage": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/7E344DBA-8FBA-4A8A-801B-3F54D772DB8B.JPG-SY3qCy4sdvo6IYboiCrouhsLYQX0VX.jpeg",
+    "description": "This palatial residence exemplifies how architectural lighting can reveal the soul of a building after sunset. The lighting design employs a sophisticated layering approach that respects the classical proportions while creating a contemporary nocturnal identity.",
+    "details": [
+      "The columns receive careful uplighting that accentuates their verticality and creates a rhythm across the façade. The pediments and decorative elements are highlighted with precision spotlighting that reveals their intricate details without creating harsh shadows or glare. The dome receives special attention with a corona of light that establishes it as the crowning element of the composition.",
+      "The lighting creates a hierarchy that guides the eye across the façade, revealing the architectural narrative in a way that's impossible during daylight hours. The warm color temperature enhances the luxurious materiality while creating an inviting atmosphere that extends the building's presence into the surrounding landscape.",
+      "The lighting design incorporates both dramatic and subtle elements, creating a balanced composition that respects the building's classical proportions while adding a contemporary layer of visual interest."
+    ],
+    "specs": [
+      { "label": "Luminaire Type", "value": "In-ground uplights, linear grazing fixtures, accent spotlights" },
+      { "label": "Color Temperature", "value": "2700K (warm white)" },
+      { "label": "Control System", "value": "Centralized DMX system with astronomical time clock" },
+      { "label": "Energy Efficiency", "value": "High-efficiency LED fixtures with precision optics" }
+    ],
+    "gallery": [
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/7E344DBA-8FBA-4A8A-801B-3F54D772DB8B.JPG-SY3qCy4sdvo6IYboiCrouhsLYQX0VX.jpeg",
+      "/placeholder.svg?height=600&width=800&query=luxury mansion exterior night lighting",
+      "/placeholder.svg?height=600&width=800&query=classical architecture illumination"
+    ],
+    "testimonial": {
+      "quote": "The lighting design has transformed our home into a landmark. The attention to architectural detail and the way the light enhances the classical elements is truly remarkable.",
+      "author": "Property Owner"
+    },
+    "nextProject": "ethereal-drapery"
+  },
+  "ethereal-drapery": {
+    "title": "Ethereal Drapery",
+    "category": "Residential | Interior Accent",
+    "mainImage": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_0363.JPG-GtbCYqmvPG1RCoYNifFpAzKlEZo5V9.jpeg",
+    "description": "The Ethereal Drapery installation demonstrates how lighting can transform fabric into a luminous architectural element. The concealed linear lighting creates a gradient of illumination that reveals the textile's materiality while establishing a soft ambient glow throughout the space.",
+    "details": [
+      "The lighting technique employed here transforms what could be a simple window treatment into a feature wall that becomes the focal point of the room. The careful positioning of the light source creates a perfect balance between illumination and shadow, revealing the curtain's pleats and folds as sculptural elements.",
+      "This installation exemplifies how lighting can blur the boundaries between functional object and art piece. The curtain becomes a canvas for light, creating a dynamic interplay that changes throughout the day as natural light interacts with the artificial illumination. The warm color temperature enhances the textile's natural hues while creating an inviting atmosphere that transforms the entire mood of the space.",
+      "The lighting design creates a sense of depth and dimension, transforming a flat surface into a three-dimensional element that adds visual interest and warmth to the space."
+    ],
+    "specs": [
+      { "label": "Luminaire Type", "value": "Custom linear LED strips with diffusers" },
+      { "label": "Color Temperature", "value": "2700K (warm white)" },
+      { "label": "Control System", "value": "Wireless dimming system with scene control" },
+      { "label": "Energy Efficiency", "value": "High-efficiency LED strips with dimming capabilities" }
+    ],
+    "gallery": [
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_0363.JPG-GtbCYqmvPG1RCoYNifFpAzKlEZo5V9.jpeg",
+      "/placeholder.svg?height=600&width=800&query=curtain lighting interior design",
+      "/placeholder.svg?height=600&width=800&query=drapery illumination residential"
+    ],
+    "testimonial": {
+      "quote": "The curtain lighting has completely transformed our living room. It creates such a warm, inviting atmosphere that changes the entire mood of our home in the evening.",
+      "author": "Homeowner"
+    },
+    "nextProject": "fashion-atelier"
+  },
+  "fashion-atelier": {
+    "title": "Fashion Atelier",
+    "category": "Retail | Interior Lighting",
+    "mainImage": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_9859.JPG-J7Csr60JBX7n4MMMNRQrAe5j9zDi2s.jpeg",
+    "description": "This contemporary retail space showcases how strategic lighting can elevate the shopping experience while highlighting merchandise with precision. The lighting scheme employs a sophisticated layering approach that creates visual hierarchy and guides customers through the space.",
+    "details": [
+      "The architectural framework receives illumination that defines the spatial boundaries while creating a sense of openness. Linear LED elements integrated into the metal framework create visual rhythm while providing ambient illumination. Accent lighting focuses on the merchandise, revealing textures and colors with high color rendering that ensures accurate perception of the garments.",
+      "Notice how the lighting creates distinct zones within the open plan, establishing intimate areas for browsing while maintaining a sense of spatial continuity. The careful balance between ambient, accent, and feature lighting creates a dynamic environment that enhances both the architecture and the products on display.",
+      "The lighting design incorporates both functional and aesthetic considerations, ensuring optimal illumination for product display while creating an atmosphere that enhances the brand identity and customer experience."
+    ],
+    "specs": [
+      { "label": "Luminaire Type", "value": "Track-mounted spotlights, linear LED strips, recessed downlights" },
+      { "label": "Color Temperature", "value": "3000K (warm white) with high CRI (95+)" },
+      { "label": "Control System", "value": "Centralized DMX system with scene-setting capabilities" },
+      { "label": "Energy Efficiency", "value": "High-efficiency LED fixtures with precision optics" }
+    ],
+    "gallery": [
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_9859.JPG-J7Csr60JBX7n4MMMNRQrAe5j9zDi2s.jpeg",
+      "/placeholder.svg?height=600&width=800&query=retail store lighting design",
+      "/placeholder.svg?height=600&width=800&query=fashion boutique interior illumination"
+    ],
+    "testimonial": {
+      "quote": "The lighting design has completely transformed our retail space. Our merchandise looks incredible, and customers regularly comment on the atmosphere and how well they can see the true colors of our products.",
+      "author": "Store Owner"
+    },
+    "nextProject": "heritage-courtyard"
+  },
+  "heritage-courtyard": {
+    "title": "Heritage Courtyard",
+    "category": "Cultural | Interior Courtyard",
+    "mainImage": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/e39bdaf7-777a-4b58-b46a-247045909fff.JPG-VaK0nASLZXMPILWslzkw0nWXOVIZ0g.jpeg",
+    "description": "The Heritage Courtyard project demonstrates how lighting can honor traditional architecture while creating a contemporary atmosphere. The lighting scheme employs a delicate touch that respects the historical context while enhancing the spatial experience for modern users.",
+    "details": [
+      "The ancient olive tree becomes a sculptural centerpiece through carefully positioned uplighting that reveals its gnarled trunk and creates a canopy of shadows on the surrounding surfaces. The classical columns receive gentle illumination that accentuates their form without overwhelming their elegant proportions.",
+      "The lighting creates a serene nocturnal environment that encourages contemplation and connection to heritage. The warm color temperature references traditional oil lamps while providing comfortable illumination for contemporary activities. The interplay between light and shadow creates a dynamic space that changes throughout the evening, revealing different aspects of the architecture as the night progresses.",
+      "The lighting design balances respect for historical context with contemporary functionality, creating a space that honors tradition while meeting modern needs for comfort and visual interest."
+    ],
+    "specs": [
+      { "label": "Luminaire Type", "value": "In-ground uplights, recessed spotlights, custom lanterns" },
+      { "label": "Color Temperature", "value": "2700K (warm white)" },
+      { "label": "Control System", "value": "Wireless system with scene-setting capabilities" },
+      { "label": "Energy Efficiency", "value": "High-efficiency LED fixtures with precision optics" }
+    ],
+    "gallery": [
+      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/e39bdaf7-777a-4b58-b46a-247045909fff.JPG-VaK0nASLZXMPILWslzkw0nWXOVIZ0g.jpeg",
+      "/placeholder.svg?height=600&width=800&query=courtyard lighting traditional architecture",
+      "/placeholder.svg?height=600&width=800&query=heritage building illumination night"
+    ],
+    "testimonial": {
+      "quote": "The lighting design has breathed new life into this historic courtyard. It respects the traditional architecture while creating a magical atmosphere that draws people in during evening hours.",
+      "author": "Cultural Heritage Director"
+    },
+    "nextProject": "al-bayt-residence"
+  }
+}
