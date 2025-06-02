@@ -9,7 +9,10 @@
     "lint": "next lint",
     "prisma:generate": "prisma generate",
     "prisma:push": "prisma db push",
-    "prisma:studio": "prisma studio"
+    "prisma:studio": "prisma studio",
+    "pages:build": "npx @cloudflare/next-on-pages",
+    "pages:deploy": "npm run pages:build && wrangler pages deploy .vercel/output/static --project-name lail-lighting",
+    "pages:dev": "npx @cloudflare/next-on-pages --watch"
   },
   "dependencies": {
     "@emotion/is-prop-valid": "latest",
@@ -70,6 +73,7 @@
     "zod": "latest"
   },
   "devDependencies": {
+    "@cloudflare/next-on-pages": "^1.13.12",
     "@types/node": "^22",
     "@types/react": "^18",
     "@types/react-dom": "^18",
